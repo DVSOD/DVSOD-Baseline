@@ -10,7 +10,4 @@ The code requires `python>=3.8`, as well as `pytorch>=1.7` and `torchvision>=0.8
 First download the `DViSal` [dataset](https://github.com/DVSOD/DVSOD-DViSal). Then the model can be used in just a few adaptions to start training:
 
 1. Set your `DViSal dataset path` and `ckpt path` in `train.py`
-2. Start training, with
-```
-python train.py
-```
+2. Start training, with ```python train.py```
