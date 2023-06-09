@@ -19,7 +19,7 @@ Train_setup = [0, False, False]    # the DVSOD baseline
 
 videos_ROOT = 'Your_DViSal_dataset_path/'
 ckpt_path = 'Your_ckpt_save_path/'
-val_setName= 'test_PTB'
+val_setName= 'val'
 
 writer = SummaryWriter()
 parser = argparse.ArgumentParser()
