@@ -46,7 +46,7 @@ Instructions for vital parameters in ```train/test.py```:
 - set '--lr'             as **float**        # e.g. 1e-4, whcih means learning rate
 ```
 
-## Reference
+## References
 
 We sincerely thank CPD, CRM, and STM for their outstanding project contributions!
 
