@@ -46,6 +46,19 @@ Instructions for vital parameters in ```train/test.py```:
 - set '--lr'             as **float**        # e.g. 1e-4, whcih means learning rate
 ```
 
+
+## Citation
+
+```
+@InProceedings{li2023dvsod,
+title={DVSOD: RGB-D Video Salient Object Detection},
+author={Li, Jingjing and Ji, Wei and Wang, Size and Li, Wenbo and Cheng, Li},
+booktitle={Advances in Neural Information Processing Systems},
+year={2023},
+month={December}
+}
+```
+
 ## References
 
 We sincerely thank CPD, CRM, and STM for their outstanding project contributions!
